@@ -1,0 +1,16 @@
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\DemoEscuelaEF.exe.config
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\DemoEscuelaEF.exe
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\DemoEscuelaEF.pdb
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\EntityFramework.dll
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\EntityFramework.xml
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.csproj.AssemblyReference.cache
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.Properties.Resources.resources
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.csproj.GenerateResource.cache
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.csproj.CoreCompileInputs.cache
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.csproj.CopyComplete
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.exe
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.pdb
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.Migrations.CrearDB.resources
+C:\Users\ambro\OneDrive\Escritorio\LINQ Y EF\DemoEFWindows\DemoEscuelaEF\obj\Debug\DemoEscuelaEF.Migrations.UpdateDB.resources
